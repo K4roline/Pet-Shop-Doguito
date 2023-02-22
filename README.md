@@ -1,1 +1,1 @@
-Páginas de cadastro desenvolvidas para o estudo da validação de Formulários.
+Páginas de cadastro desenvolvidas para o estudo da validação de Formulários e CRUD.
